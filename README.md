@@ -66,3 +66,5 @@ US stock markets historical data of intraday prices is available for free on man
 
 ### Sample plot of price predicted and original price with time
 ![alt text](https://github.com/Rkbp-099/Stock-Price-Predictor/blob/main/Plots/Plot%20CNN%20LSTM.png?raw=true)
+
+For more details please check out [report](https://github.com/Rkbp-099/Stock-Price-Predictor/blob/main/Report.pdf) for this project.
